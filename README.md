@@ -1,4 +1,4 @@
 # React Shop Portfolio Project
 
-[Demo](https://github.com/IgorPlakhov/react-shop).
+[Demo](https://IgorPlakhov.github.io/react-shop).
 
